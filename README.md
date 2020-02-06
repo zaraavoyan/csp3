@@ -6,22 +6,22 @@ Deconstruction Practice 3
 ---
 ##Landing Page:
 
-Data:
+## Data:
 -Bon Iver Logo
 -Fonts 
 -Mouse Position
 
-Render:
+## Render:
 -Bunch of 'I's
 -3 expandable windows
 
-Simulation:
+## Simulation:
 -Mouse trail
 -Window expansion/minimization
 
-Main page:
+## Main page:
 
-Data:
+## Data:
 -Fonts 
 -Mouse Position
 -Countries list
@@ -31,13 +31,13 @@ Data:
 -Bon Iver logo
 -Globe 
 
-Render:
+## Render:
 -More "I"s arranged in different words
 -Buttons
 -Expandable window
 -Slider
 
-Simulation:
+## Simulation:
 -Fireworks animation
 -Globe animation
 -Zoom in/zoom out animation
@@ -45,11 +45,11 @@ Simulation:
 
 #### Project 2: Mosaic Virus - https://www.itsnicethat.com/articles/anna-ridler-digital-art-280619
 
-Data:
+## Data:
 -Cryptocurrency prices
 -Newly created dataset of 10k tulips
 
-Render:
+## Render:
 -Tulips becoming more striped as the price of bitcoin goes up
 
-?
+# ?
