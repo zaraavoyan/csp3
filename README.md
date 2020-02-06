@@ -43,7 +43,7 @@ Deconstruction Practice 3
 * -Zoom in/zoom out animation
 * -Mouse trail
 
-#### Project 2: Mosaic Virus - https://www.itsnicethat.com/articles/anna-ridler-digital-art-280619
+#### Project 2: Mosaic Virus - https://vimeo.com/287645190
 
 ## Data:
 * -Cryptocurrency prices
